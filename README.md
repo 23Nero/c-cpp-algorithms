@@ -12,4 +12,9 @@
 - Implementing debugging and validation with `assert.h`
 - Example programs demonstrating their usage
 
+### 3. [Bitmask](Bitmask.md)
+- Understanding bitwise operations (`AND`, `OR`, `XOR`, `NOT`, `Shift`)
+- Using bitmasks for efficient flag management
+- Practical applications in embedded systems
+- Example programs demonstrating bitmask techniques
 
