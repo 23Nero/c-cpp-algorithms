@@ -182,6 +182,4 @@ void checkTypeSizes() {
 - `assert.h` is useful for debugging and ensuring runtime constraints.
 - These libraries help write more flexible and reliable C programs.
 
----
-Let me know if you need further explanations or modifications!
 
